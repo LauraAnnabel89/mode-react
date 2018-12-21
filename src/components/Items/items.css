@@ -1,0 +1,30 @@
+.item-delete-button {
+  opacity: 0.2;
+}
+
+.item-container {
+  position: relative;
+  cursor: pointer;
+  padding: 10px 20px;
+}
+
+/* .item-overlay {
+  background-color: rgba(0, 0, 0, 0);
+} */
+
+/* .item-overlay:hover {
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.9);
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 2;
+} */
+
+/* .item-title {
+  font-size: 15px;
+  color: #ffffff;
+  width: 50%;
+} */
